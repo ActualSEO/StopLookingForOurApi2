@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Actual SEO Media, Inc.",
+  "alternateName": "Actual SEO Media",
+  "url": "https://actualseomedia.com",
+  "logo": "https://actualseomedia.com/wp-content/uploads/2019/10/logo-thumbnail.png",
+  "sameAs": [
+    "https://www.facebook.com/actualseohouston",
+    "https://twitter.com/actualseomedia1",
+    "https://www.instagram.com/actualseomedia/?hl=en",
+    "https://www.linkedin.com/company/actual-seo-media",
+    "https://in.pinterest.com/actualseomedia/",
+    "https://www.youtube.com/channel/UCgmZ8u-PUPj1CXTXQZYIsTQ"
+  ]
+}
