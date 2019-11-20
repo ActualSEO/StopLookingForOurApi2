@@ -1,0 +1,47 @@
+<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>  <script type="application/ld+json">{
+    "@context": "http://schema.org",
+    "@type": "LocalBusiness",
+    "image": "https://actualseomedia.com/wp-content/uploads/2019/08/93a-2-Largest-Copy-Copy.png",
+    "priceRange": "$$",
+    "telephone": "(832) 834-0661",
+    "name": "Actual SEO Media, Inc.",
+    "logo": "https://actualseomedia.com/wp-content/uploads/2019/08/93a-2-Largest-Copy-Copy.png",
+    "description": "Houston&#039;s best SEO and Digital Marketing Agency providing the latest technology and strategy to improve the visibility for all local businesses.",
+    "openingHours": "Mo-Su 8:00-20:00",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "29.746849",
+        "longitude": "-95.607318"
+    },
+    "url": "https://actualseomedia.com",
+    "sameAs": [
+        "https://www.facebook.com/actualseohouston",
+        "https://twitter.com/actualseomedia1",
+        "https://www.linkedin.com/company/actual-seo-media",
+        "https://www.instagram.com/actualseomedia/?hl=en",
+        "https://in.pinterest.com/actualseomedia/",
+        "https://www.youtube.com/channel/UCgmZ8u-PUPj1CXTXQZYIsTQ"
+    ],
+    "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+1-832-834-0661",
+        "contactType": "customer service",
+        "email": "info@actualseomedia.com",
+        "contactOption": "TollFree",
+        "areaServed": [
+            "US"
+        ],
+        "availableLanguage": [
+            "English",
+            "Spanish"
+        ]
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "United States",
+        "addressLocality": "Houston",
+        "addressRegion": "TX",
+        "postalCode": "77077",
+        "streetAddress": "1880 S Dairy Ashford Rd Suite 682"
+    }
+}</script>
